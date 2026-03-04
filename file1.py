@@ -1,1 +1,4 @@
-Hello., adding new line into the file
+
+
+Hello, branch conflict issues
+
