@@ -1,7 +1,7 @@
 # Sample addition of two numbers in Python
 
 num1 = 10
-num2 = 5
+num2 = 10
 
 sum = num1 + num2
 
